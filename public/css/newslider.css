@@ -1,0 +1,23 @@
+#formGroupExampleInput
+{
+    height: 60px;
+}
+.form-group>.form-control
+{
+    border: none;
+
+    box-shadow: 1px 1px 1px 1px #9c9c9c ;
+}
+.btn-success
+{
+    position: relative;
+    top: 30px;
+    right: 10px;
+    width: 100px;
+}
+.custom-file
+{
+    position: relative;
+    top: 10px;
+
+}
